@@ -1,0 +1,9 @@
+# Алдаанд орохгүй байх build хавтас
+**/target/
+
+# Компайл-generated Java класс файлууд
+**/*.class
+
+# IDE тохиргоонууд
+.vscode/
+.idea/
